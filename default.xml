@@ -503,8 +503,8 @@
   <project name="android_hardware_amlogic_tv_input" path="hardware/amlogic/tv_input" revision="a240a9dd4a7e0dc06de339917810259319e45d84" />
   <project name="android_vendor_amlogic_external_libaudioeffect" path="vendor/amlogic/external/libaudioeffect" revision="b5c1311fa751a19f0f01ac8135ea63ea138800a2" />
   <project name="android_vendor_amlogic_apps_DTVPlayer" path="vendor/amlogic/apps/DTVPlayer" revision="3086eab72a58d9573e42c8828be35d989bf61d38" />
-  <project name="android_vendor_amlogic_apps_TvInput" path="vendor/amlogic/apps/TvInput" revision="e84b3e4e3a9f554d6d815fa9eccff6ac3ff5834e" />
+  <project name="android_vendor_amlogic_apps_TvInput" path="vendor/amlogic/apps/TvInput" revision="bfff0b5353eb4bca53aa60e36bab265aebd3b50b" />
   <project name="android_vendor_amlogic_apps_TvMiddleware" path="vendor/amlogic/apps/TvMiddleware" revision="f0c5255aa915f3447ccb131f9e9a39901a490a8d" />
   <project name="android_vendor_amlogic_external_libzvbi" path="vendor/amlogic/external/libzvbi" revision="1ad9040ebcecaa23b93254121937ad074255f48c" />
-  <project name="android_vendor_amlogic_dvb" path="vendor/amlogic/dvb" revision="87b10926834c9332a826d2e1e77d63e299212108" />
+  <project name="android_vendor_amlogic_dvb" path="vendor/amlogic/dvb" revision="ccb335bef61054606908abeec9238a174e33da01" />
 </manifest>
